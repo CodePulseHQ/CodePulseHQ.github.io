@@ -1,0 +1,10 @@
+# CodePulse
+
+> Data tools for developers and AI builders, priced per result. Plus engineering analytics for GitHub teams (codepulsehq.com).
+
+## Tools (Apify Actors, with guides and examples)
+- [YouTube Transcript API](https://apify.com/codepulsehq/youtube-transcript-api): transcripts of any YouTube video, playlist or channel. Guides: https://codepulsehq.github.io/youtube-transcript-api/
+- [SEC EDGAR API](https://apify.com/codepulsehq/sec-edgar-api): 10-K sections as Markdown, financial statements, Form 4 insider trades and 13F holdings. Guides: https://codepulsehq.github.io/sec-edgar-api/
+- [US Federal Opportunities API](https://apify.com/codepulsehq/us-federal-opportunities-api): SAM.gov contract opportunities, Grants.gov grants and USAspending awards. Guides: https://codepulsehq.github.io/us-federal-opportunities-api/
+- [Domain Intelligence API](https://apify.com/codepulsehq/domain-intelligence-api): WHOIS/RDAP, DNS, SSL, SPF/DKIM/DMARC and website technology in bulk. Guides: https://codepulsehq.github.io/domain-intelligence-api/
+- [Speech to Text API](https://apify.com/codepulsehq/speech-to-text-api): transcribe audio and video links with Whisper. Guides: https://codepulsehq.github.io/speech-to-text-api/
